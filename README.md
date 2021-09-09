@@ -12,6 +12,7 @@ Diy 3D Printer Using Ramps 1.4 and A4988 Drivers
 + [LCD 2004](https://bit.ly/38N1mId)   `OR`  [Smart LCD 128*64](https://robu.in/product/3d-printer-12864-smart-lcd-controller-ramps-1-4/) [1 Nos]
 + [Smooth Rod](https://robu.in/product/380-mm-long-chrome-plated-smooth-rod-diameter-8-mm/) [4 Nos]
 + [Threaded Rod](https://www.amazon.in/1000mm-Stainless-Steel-Threaded-Screw/dp/B07415XFF7) [2 Nos]
++ [Flexible coupling](https://robu.in/product/flexible-coupling-od25mm-x-l32mm-bore6x6mm-zrb-25x32/) [2 Nos]
 
 
 
