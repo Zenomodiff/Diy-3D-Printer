@@ -16,7 +16,7 @@ Diy 3D Printer Using Ramps 1.4 and A4988 Drivers
 + [GT2 Belt](https://amzn.to/3jUMJZD) [1 Nos]
 + [Aluminium Channel Sections](https://amzn.to/3yTWYC1) [7 Nos]
 + [Nema Mount](https://bit.ly/3EenslA) [3 Nos]
-+ [Nema Mount](https://bit.ly/2X70VXe) [3 Nos]
++ [E3d Hot End](https://bit.ly/2X70VXe) [3 Nos]
 
 
 
