@@ -14,7 +14,7 @@ Diy 3D Printer Using Ramps 1.4 and A4988 Drivers
 + [Threaded Rod](https://www.amazon.in/1000mm-Stainless-Steel-Threaded-Screw/dp/B07415XFF7) [2 Nos]
 + [Flexible coupling](https://robu.in/product/flexible-coupling-od25mm-x-l32mm-bore6x6mm-zrb-25x32/) [2 Nos]
 + [GT2 Belt](https://amzn.to/3jUMJZD) [1 Nos]
-
++ [Aluminium Channel Sections](https://amzn.to/3yTWYC1) [Nos]
 
 
 
