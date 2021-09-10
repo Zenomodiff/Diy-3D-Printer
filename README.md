@@ -15,6 +15,7 @@ Diy 3D Printer Using Ramps 1.4 and A4988 Drivers
 + [Flexible coupling](https://robu.in/product/flexible-coupling-od25mm-x-l32mm-bore6x6mm-zrb-25x32/) [2 Nos]
 + [GT2 Belt](https://amzn.to/3jUMJZD) [1 Nos]
 + [Aluminium Channel Sections](https://amzn.to/3yTWYC1) [7 Nos]
++ + [Nema Mount](https://bit.ly/3EenslA) []
 
 
 
