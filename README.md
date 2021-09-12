@@ -17,5 +17,5 @@ Diy 3D Printer Using Ramps 1.4 and A4988 Drivers
 + [Aluminium Channel Sections](https://amzn.to/3yTWYC1) [7 Nos]
 + [Nema Mount](https://bit.ly/3EenslA) [3 Nos]
 + [E3d Hot End](https://bit.ly/2X70VXe) [1 Nos]
-+ [LM8UU](https://bit.ly/3hphlRz) `OR` [SC8UU](https://bit.ly/3hphlRz) [8 Nos]
++ [LM8UU](https://bit.ly/2Xgupln) `OR` [SC8UU](https://bit.ly/3hphlRz) [8 Nos]
 
