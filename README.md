@@ -21,3 +21,5 @@ Diy 3D Printer Using Ramps 1.4 and A4988 Drivers
 
 
 ### `SOFTWARES`
+
++ [LM8UU](https://bit.ly/2Xgupln) `OR` [SC8UU](https://bit.ly/3hphlRz)
