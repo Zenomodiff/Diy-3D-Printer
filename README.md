@@ -23,4 +23,4 @@ Diy 3D Printer Using Ramps 1.4 and A4988 Drivers
 ### `SOFTWARES`
 
 + [Arduino IDE](https://www.arduino.cc/en/software)
-+ [Marlin Firmware](https://www.arduino.)
++ [Marlin Firmware](https://www.arduino)
